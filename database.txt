@@ -1,0 +1,9 @@
+CREATE TABLE hero (
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(255) NOT NULL,
+    description VARCHAR(255) NOT NULL,
+    button VARCHAR(30) NOT NULL
+);
+
+INSERT INTO hero (title, description, button) 
+VALUES ('Tilottama College', 'Lets Build Your Furture Together', 'Enroll Now');
