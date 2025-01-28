@@ -230,7 +230,7 @@ if ($result->num_rows > 0){
     <!-- Contact Section -->
 
     <section id="contact">
-        <h2>Contact Me</h2>
+        <h2>Contact Us</h2>
         <p>
             Feel free to Contact Us! To Lighten Your Furture
         </p>
